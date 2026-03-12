@@ -1,0 +1,1293 @@
+{
+    "elements": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "IAHP"
+                }
+            },
+            {
+                "data": {
+                    "id": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "id": "BWM"
+                }
+            },
+            {
+                "data": {
+                    "id": "OWA"
+                }
+            },
+            {
+                "data": {
+                    "id": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "id": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "id": "SVM"
+                }
+            },
+            {
+                "data": {
+                    "id": "FMF"
+                }
+            },
+            {
+                "data": {
+                    "id": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "id": "AHP-PROMETHEE II"
+                }
+            },
+            {
+                "data": {
+                    "id": "KNN"
+                }
+            },
+            {
+                "data": {
+                    "id": "FANP"
+                }
+            },
+            {
+                "data": {
+                    "id": "FVIKOR"
+                }
+            },
+            {
+                "data": {
+                    "id": "Fuzzy SWARA"
+                }
+            },
+            {
+                "data": {
+                    "id": "Fuzzy MARCOS"
+                }
+            },
+            {
+                "data": {
+                    "id": "RCR"
+                }
+            },
+            {
+                "data": {
+                    "id": "NeuroFuzzy"
+                }
+            },
+            {
+                "data": {
+                    "id": "deep-array wake model"
+                }
+            },
+            {
+                "data": {
+                    "id": "DAWM"
+                }
+            },
+            {
+                "data": {
+                    "id": "Borda"
+                }
+            },
+            {
+                "data": {
+                    "id": "fushy standardization"
+                }
+            },
+            {
+                "data": {
+                    "id": "GIAHP"
+                }
+            },
+            {
+                "data": {
+                    "id": "MEREC"
+                }
+            },
+            {
+                "data": {
+                    "id": "DBSCAN"
+                }
+            },
+            {
+                "data": {
+                    "id": "MAUT"
+                }
+            },
+            {
+                "data": {
+                    "id": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "id": "NS theory"
+                }
+            },
+            {
+                "data": {
+                    "id": "ANP"
+                }
+            },
+            {
+                "data": {
+                    "id": "entropy"
+                }
+            },
+            {
+                "data": {
+                    "id": "PROMETHEEII"
+                }
+            },
+            {
+                "data": {
+                    "id": "CRITIC"
+                }
+            },
+            {
+                "data": {
+                    "id": "MFAHP"
+                }
+            },
+            {
+                "data": {
+                    "id": "SF-AHP"
+                }
+            },
+            {
+                "data": {
+                    "id": "ML models"
+                }
+            },
+            {
+                "data": {
+                    "id": "ARAS"
+                }
+            },
+            {
+                "data": {
+                    "id": "COPRAS"
+                }
+            },
+            {
+                "data": {
+                    "id": "EDAS"
+                }
+            },
+            {
+                "data": {
+                    "id": "MOORA"
+                }
+            },
+            {
+                "data": {
+                    "id": "Simulation Model"
+                }
+            },
+            {
+                "data": {
+                    "id": "Z-FAHP"
+                }
+            },
+            {
+                "data": {
+                    "id": "Z-FTOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "id": "fuzzy SWARA"
+                }
+            },
+            {
+                "data": {
+                    "id": "fuzzy GRA methodologies"
+                }
+            },
+            {
+                "data": {
+                    "id": "algor\u00edtmos gen\u00e9ticos"
+                }
+            },
+            {
+                "data": {
+                    "id": "MLP"
+                }
+            },
+            {
+                "data": {
+                    "id": "Monte Carlo"
+                }
+            },
+            {
+                "data": {
+                    "id": "DEMATEL"
+                }
+            },
+            {
+                "data": {
+                    "id": "MABAC"
+                }
+            },
+            {
+                "data": {
+                    "id": "OCRA"
+                }
+            },
+            {
+                "data": {
+                    "id": "FTOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "id": "f-MIGP"
+                }
+            },
+            {
+                "data": {
+                    "id": "INPDW"
+                }
+            },
+            {
+                "data": {
+                    "id": "SSD"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "source": "IAHP",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "MOORA"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "IAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "COPRAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "EDAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "OCRA"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "CRITIC"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "OWA"
+                }
+            },
+            {
+                "data": {
+                    "source": "VIKOR",
+                    "target": "ARAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "BWM",
+                    "target": "OWA"
+                }
+            },
+            {
+                "data": {
+                    "source": "OWA",
+                    "target": "BWM"
+                }
+            },
+            {
+                "data": {
+                    "source": "OWA",
+                    "target": "FANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "OWA",
+                    "target": "OCRA"
+                }
+            },
+            {
+                "data": {
+                    "source": "OWA",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "OWA",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "OWA",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "MLP"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "FMF"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "fushy standardization"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "algor\u00edtmos gen\u00e9ticos"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "Monte Carlo"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "SVM"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "CRITIC"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "RCR"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "Borda"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "NeuroFuzzy"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP",
+                    "target": "OWA"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "PROMETHEEII"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "entropy"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "OCRA"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "MAUT"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "CRITIC"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "ANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "Borda"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "NS theory"
+                }
+            },
+            {
+                "data": {
+                    "source": "TOPSIS",
+                    "target": "OWA"
+                }
+            },
+            {
+                "data": {
+                    "source": "SVM",
+                    "target": "KNN"
+                }
+            },
+            {
+                "data": {
+                    "source": "SVM",
+                    "target": "AHP-PROMETHEE II"
+                }
+            },
+            {
+                "data": {
+                    "source": "SVM",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "FMF",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "MOORA"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "FVIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "COPRAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "EDAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "FTOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "MAUT"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "Simulation Model"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "MFAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "FAHP",
+                    "target": "ARAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP-PROMETHEE II",
+                    "target": "SVM"
+                }
+            },
+            {
+                "data": {
+                    "source": "AHP-PROMETHEE II",
+                    "target": "KNN"
+                }
+            },
+            {
+                "data": {
+                    "source": "KNN",
+                    "target": "SVM"
+                }
+            },
+            {
+                "data": {
+                    "source": "KNN",
+                    "target": "AHP-PROMETHEE II"
+                }
+            },
+            {
+                "data": {
+                    "source": "FANP",
+                    "target": "f-MIGP"
+                }
+            },
+            {
+                "data": {
+                    "source": "FANP",
+                    "target": "FVIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "FANP",
+                    "target": "OWA"
+                }
+            },
+            {
+                "data": {
+                    "source": "FVIKOR",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "FVIKOR",
+                    "target": "FANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "Fuzzy SWARA",
+                    "target": "Fuzzy MARCOS"
+                }
+            },
+            {
+                "data": {
+                    "source": "Fuzzy MARCOS",
+                    "target": "Fuzzy SWARA"
+                }
+            },
+            {
+                "data": {
+                    "source": "RCR",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "NeuroFuzzy",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "deep-array wake model",
+                    "target": "DAWM"
+                }
+            },
+            {
+                "data": {
+                    "source": "DAWM",
+                    "target": "deep-array wake model"
+                }
+            },
+            {
+                "data": {
+                    "source": "Borda",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "Borda",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "fushy standardization",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "GIAHP",
+                    "target": "MEREC"
+                }
+            },
+            {
+                "data": {
+                    "source": "GIAHP",
+                    "target": "DBSCAN"
+                }
+            },
+            {
+                "data": {
+                    "source": "MEREC",
+                    "target": "GIAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "MEREC",
+                    "target": "DBSCAN"
+                }
+            },
+            {
+                "data": {
+                    "source": "DBSCAN",
+                    "target": "MEREC"
+                }
+            },
+            {
+                "data": {
+                    "source": "DBSCAN",
+                    "target": "GIAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "MAUT",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "MAUT",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "MAUT",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "MOORA"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "COPRAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "EDAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "MAUT"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "SF-AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "ML models"
+                }
+            },
+            {
+                "data": {
+                    "source": "WASPAS",
+                    "target": "ARAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "NS theory",
+                    "target": "PROMETHEEII"
+                }
+            },
+            {
+                "data": {
+                    "source": "NS theory",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "NS theory",
+                    "target": "ANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "NS theory",
+                    "target": "entropy"
+                }
+            },
+            {
+                "data": {
+                    "source": "ANP",
+                    "target": "PROMETHEEII"
+                }
+            },
+            {
+                "data": {
+                    "source": "ANP",
+                    "target": "MABAC"
+                }
+            },
+            {
+                "data": {
+                    "source": "ANP",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "ANP",
+                    "target": "DEMATEL"
+                }
+            },
+            {
+                "data": {
+                    "source": "ANP",
+                    "target": "entropy"
+                }
+            },
+            {
+                "data": {
+                    "source": "ANP",
+                    "target": "NS theory"
+                }
+            },
+            {
+                "data": {
+                    "source": "entropy",
+                    "target": "PROMETHEEII"
+                }
+            },
+            {
+                "data": {
+                    "source": "entropy",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "entropy",
+                    "target": "ANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "entropy",
+                    "target": "NS theory"
+                }
+            },
+            {
+                "data": {
+                    "source": "PROMETHEEII",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "PROMETHEEII",
+                    "target": "ANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "PROMETHEEII",
+                    "target": "NS theory"
+                }
+            },
+            {
+                "data": {
+                    "source": "PROMETHEEII",
+                    "target": "entropy"
+                }
+            },
+            {
+                "data": {
+                    "source": "CRITIC",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "CRITIC",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "CRITIC",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "MFAHP",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "SF-AHP",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "SF-AHP",
+                    "target": "ML models"
+                }
+            },
+            {
+                "data": {
+                    "source": "ML models",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "ML models",
+                    "target": "SF-AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "ARAS",
+                    "target": "MOORA"
+                }
+            },
+            {
+                "data": {
+                    "source": "ARAS",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "ARAS",
+                    "target": "COPRAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "ARAS",
+                    "target": "EDAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "ARAS",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "ARAS",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "COPRAS",
+                    "target": "MOORA"
+                }
+            },
+            {
+                "data": {
+                    "source": "COPRAS",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "COPRAS",
+                    "target": "EDAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "COPRAS",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "COPRAS",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "COPRAS",
+                    "target": "ARAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "EDAS",
+                    "target": "MOORA"
+                }
+            },
+            {
+                "data": {
+                    "source": "EDAS",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "EDAS",
+                    "target": "COPRAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "EDAS",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "EDAS",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "EDAS",
+                    "target": "ARAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "MOORA",
+                    "target": "WASPAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "MOORA",
+                    "target": "COPRAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "MOORA",
+                    "target": "EDAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "MOORA",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "MOORA",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "MOORA",
+                    "target": "ARAS"
+                }
+            },
+            {
+                "data": {
+                    "source": "Simulation Model",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "Z-FAHP",
+                    "target": "Z-FTOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "Z-FTOPSIS",
+                    "target": "Z-FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "fuzzy SWARA",
+                    "target": "fuzzy GRA methodologies"
+                }
+            },
+            {
+                "data": {
+                    "source": "fuzzy GRA methodologies",
+                    "target": "fuzzy SWARA"
+                }
+            },
+            {
+                "data": {
+                    "source": "algor\u00edtmos gen\u00e9ticos",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "MLP",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "Monte Carlo",
+                    "target": "AHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "DEMATEL",
+                    "target": "MABAC"
+                }
+            },
+            {
+                "data": {
+                    "source": "DEMATEL",
+                    "target": "ANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "MABAC",
+                    "target": "DEMATEL"
+                }
+            },
+            {
+                "data": {
+                    "source": "MABAC",
+                    "target": "ANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "OCRA",
+                    "target": "TOPSIS"
+                }
+            },
+            {
+                "data": {
+                    "source": "OCRA",
+                    "target": "VIKOR"
+                }
+            },
+            {
+                "data": {
+                    "source": "OCRA",
+                    "target": "OWA"
+                }
+            },
+            {
+                "data": {
+                    "source": "FTOPSIS",
+                    "target": "FAHP"
+                }
+            },
+            {
+                "data": {
+                    "source": "f-MIGP",
+                    "target": "FANP"
+                }
+            },
+            {
+                "data": {
+                    "source": "INPDW",
+                    "target": "SSD"
+                }
+            },
+            {
+                "data": {
+                    "source": "SSD",
+                    "target": "INPDW"
+                }
+            }
+        ]
+    }
+}

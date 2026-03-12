@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="IAHP"/>
+<node id="VIKOR"/>
+<node id="BWM"/>
+<node id="OWA"/>
+<node id="AHP"/>
+<node id="TOPSIS"/>
+<node id="SVM"/>
+<node id="FMF"/>
+<node id="FAHP"/>
+<node id="AHP-PROMETHEE II"/>
+<node id="KNN"/>
+<node id="FANP"/>
+<node id="FVIKOR"/>
+<node id="Fuzzy SWARA"/>
+<node id="Fuzzy MARCOS"/>
+<node id="RCR"/>
+<node id="NeuroFuzzy"/>
+<node id="deep-array wake model"/>
+<node id="DAWM"/>
+<node id="Borda"/>
+<node id="fushy standardization"/>
+<node id="GIAHP"/>
+<node id="MEREC"/>
+<node id="DBSCAN"/>
+<node id="MAUT"/>
+<node id="WASPAS"/>
+<node id="NS theory"/>
+<node id="ANP"/>
+<node id="entropy"/>
+<node id="PROMETHEEII"/>
+<node id="CRITIC"/>
+<node id="MFAHP"/>
+<node id="SF-AHP"/>
+<node id="ML models"/>
+<node id="ARAS"/>
+<node id="COPRAS"/>
+<node id="EDAS"/>
+<node id="MOORA"/>
+<node id="Simulation Model"/>
+<node id="Z-FAHP"/>
+<node id="Z-FTOPSIS"/>
+<node id="fuzzy SWARA"/>
+<node id="fuzzy GRA methodologies"/>
+<node id="algorítmos genéticos"/>
+<node id="MLP"/>
+<node id="Monte Carlo"/>
+<node id="DEMATEL"/>
+<node id="MABAC"/>
+<node id="OCRA"/>
+<node id="FTOPSIS"/>
+<node id="f-MIGP"/>
+<node id="INPDW"/>
+<node id="SSD"/>
+<edge source="IAHP" target="VIKOR"/>
+<edge source="VIKOR" target="MOORA"/>
+<edge source="VIKOR" target="WASPAS"/>
+<edge source="VIKOR" target="IAHP"/>
+<edge source="VIKOR" target="COPRAS"/>
+<edge source="VIKOR" target="EDAS"/>
+<edge source="VIKOR" target="OCRA"/>
+<edge source="VIKOR" target="TOPSIS"/>
+<edge source="VIKOR" target="CRITIC"/>
+<edge source="VIKOR" target="AHP"/>
+<edge source="VIKOR" target="FAHP"/>
+<edge source="VIKOR" target="OWA"/>
+<edge source="VIKOR" target="ARAS"/>
+<edge source="BWM" target="OWA"/>
+<edge source="OWA" target="BWM"/>
+<edge source="OWA" target="FANP"/>
+<edge source="OWA" target="OCRA"/>
+<edge source="OWA" target="TOPSIS"/>
+<edge source="OWA" target="AHP"/>
+<edge source="OWA" target="VIKOR"/>
+<edge source="AHP" target="WASPAS"/>
+<edge source="AHP" target="MLP"/>
+<edge source="AHP" target="FMF"/>
+<edge source="AHP" target="fushy standardization"/>
+<edge source="AHP" target="algorítmos genéticos"/>
+<edge source="AHP" target="Monte Carlo"/>
+<edge source="AHP" target="TOPSIS"/>
+<edge source="AHP" target="SVM"/>
+<edge source="AHP" target="CRITIC"/>
+<edge source="AHP" target="RCR"/>
+<edge source="AHP" target="Borda"/>
+<edge source="AHP" target="NeuroFuzzy"/>
+<edge source="AHP" target="VIKOR"/>
+<edge source="AHP" target="OWA"/>
+<edge source="TOPSIS" target="WASPAS"/>
+<edge source="TOPSIS" target="PROMETHEEII"/>
+<edge source="TOPSIS" target="entropy"/>
+<edge source="TOPSIS" target="OCRA"/>
+<edge source="TOPSIS" target="MAUT"/>
+<edge source="TOPSIS" target="AHP"/>
+<edge source="TOPSIS" target="CRITIC"/>
+<edge source="TOPSIS" target="ANP"/>
+<edge source="TOPSIS" target="FAHP"/>
+<edge source="TOPSIS" target="Borda"/>
+<edge source="TOPSIS" target="VIKOR"/>
+<edge source="TOPSIS" target="NS theory"/>
+<edge source="TOPSIS" target="OWA"/>
+<edge source="SVM" target="KNN"/>
+<edge source="SVM" target="AHP-PROMETHEE II"/>
+<edge source="SVM" target="AHP"/>
+<edge source="FMF" target="AHP"/>
+<edge source="FAHP" target="WASPAS"/>
+<edge source="FAHP" target="MOORA"/>
+<edge source="FAHP" target="FVIKOR"/>
+<edge source="FAHP" target="COPRAS"/>
+<edge source="FAHP" target="EDAS"/>
+<edge source="FAHP" target="FTOPSIS"/>
+<edge source="FAHP" target="TOPSIS"/>
+<edge source="FAHP" target="MAUT"/>
+<edge source="FAHP" target="Simulation Model"/>
+<edge source="FAHP" target="MFAHP"/>
+<edge source="FAHP" target="VIKOR"/>
+<edge source="FAHP" target="ARAS"/>
+<edge source="AHP-PROMETHEE II" target="SVM"/>
+<edge source="AHP-PROMETHEE II" target="KNN"/>
+<edge source="KNN" target="SVM"/>
+<edge source="KNN" target="AHP-PROMETHEE II"/>
+<edge source="FANP" target="f-MIGP"/>
+<edge source="FANP" target="FVIKOR"/>
+<edge source="FANP" target="OWA"/>
+<edge source="FVIKOR" target="FAHP"/>
+<edge source="FVIKOR" target="FANP"/>
+<edge source="Fuzzy SWARA" target="Fuzzy MARCOS"/>
+<edge source="Fuzzy MARCOS" target="Fuzzy SWARA"/>
+<edge source="RCR" target="AHP"/>
+<edge source="NeuroFuzzy" target="AHP"/>
+<edge source="deep-array wake model" target="DAWM"/>
+<edge source="DAWM" target="deep-array wake model"/>
+<edge source="Borda" target="TOPSIS"/>
+<edge source="Borda" target="AHP"/>
+<edge source="fushy standardization" target="AHP"/>
+<edge source="GIAHP" target="MEREC"/>
+<edge source="GIAHP" target="DBSCAN"/>
+<edge source="MEREC" target="GIAHP"/>
+<edge source="MEREC" target="DBSCAN"/>
+<edge source="DBSCAN" target="MEREC"/>
+<edge source="DBSCAN" target="GIAHP"/>
+<edge source="MAUT" target="WASPAS"/>
+<edge source="MAUT" target="TOPSIS"/>
+<edge source="MAUT" target="FAHP"/>
+<edge source="WASPAS" target="MOORA"/>
+<edge source="WASPAS" target="COPRAS"/>
+<edge source="WASPAS" target="EDAS"/>
+<edge source="WASPAS" target="TOPSIS"/>
+<edge source="WASPAS" target="MAUT"/>
+<edge source="WASPAS" target="AHP"/>
+<edge source="WASPAS" target="SF-AHP"/>
+<edge source="WASPAS" target="FAHP"/>
+<edge source="WASPAS" target="VIKOR"/>
+<edge source="WASPAS" target="ML models"/>
+<edge source="WASPAS" target="ARAS"/>
+<edge source="NS theory" target="PROMETHEEII"/>
+<edge source="NS theory" target="TOPSIS"/>
+<edge source="NS theory" target="ANP"/>
+<edge source="NS theory" target="entropy"/>
+<edge source="ANP" target="PROMETHEEII"/>
+<edge source="ANP" target="MABAC"/>
+<edge source="ANP" target="TOPSIS"/>
+<edge source="ANP" target="DEMATEL"/>
+<edge source="ANP" target="entropy"/>
+<edge source="ANP" target="NS theory"/>
+<edge source="entropy" target="PROMETHEEII"/>
+<edge source="entropy" target="TOPSIS"/>
+<edge source="entropy" target="ANP"/>
+<edge source="entropy" target="NS theory"/>
+<edge source="PROMETHEEII" target="TOPSIS"/>
+<edge source="PROMETHEEII" target="ANP"/>
+<edge source="PROMETHEEII" target="NS theory"/>
+<edge source="PROMETHEEII" target="entropy"/>
+<edge source="CRITIC" target="TOPSIS"/>
+<edge source="CRITIC" target="VIKOR"/>
+<edge source="CRITIC" target="AHP"/>
+<edge source="MFAHP" target="FAHP"/>
+<edge source="SF-AHP" target="WASPAS"/>
+<edge source="SF-AHP" target="ML models"/>
+<edge source="ML models" target="WASPAS"/>
+<edge source="ML models" target="SF-AHP"/>
+<edge source="ARAS" target="MOORA"/>
+<edge source="ARAS" target="WASPAS"/>
+<edge source="ARAS" target="COPRAS"/>
+<edge source="ARAS" target="EDAS"/>
+<edge source="ARAS" target="FAHP"/>
+<edge source="ARAS" target="VIKOR"/>
+<edge source="COPRAS" target="MOORA"/>
+<edge source="COPRAS" target="WASPAS"/>
+<edge source="COPRAS" target="EDAS"/>
+<edge source="COPRAS" target="FAHP"/>
+<edge source="COPRAS" target="VIKOR"/>
+<edge source="COPRAS" target="ARAS"/>
+<edge source="EDAS" target="MOORA"/>
+<edge source="EDAS" target="WASPAS"/>
+<edge source="EDAS" target="COPRAS"/>
+<edge source="EDAS" target="FAHP"/>
+<edge source="EDAS" target="VIKOR"/>
+<edge source="EDAS" target="ARAS"/>
+<edge source="MOORA" target="WASPAS"/>
+<edge source="MOORA" target="COPRAS"/>
+<edge source="MOORA" target="EDAS"/>
+<edge source="MOORA" target="FAHP"/>
+<edge source="MOORA" target="VIKOR"/>
+<edge source="MOORA" target="ARAS"/>
+<edge source="Simulation Model" target="FAHP"/>
+<edge source="Z-FAHP" target="Z-FTOPSIS"/>
+<edge source="Z-FTOPSIS" target="Z-FAHP"/>
+<edge source="fuzzy SWARA" target="fuzzy GRA methodologies"/>
+<edge source="fuzzy GRA methodologies" target="fuzzy SWARA"/>
+<edge source="algorítmos genéticos" target="AHP"/>
+<edge source="MLP" target="AHP"/>
+<edge source="Monte Carlo" target="AHP"/>
+<edge source="DEMATEL" target="MABAC"/>
+<edge source="DEMATEL" target="ANP"/>
+<edge source="MABAC" target="DEMATEL"/>
+<edge source="MABAC" target="ANP"/>
+<edge source="OCRA" target="TOPSIS"/>
+<edge source="OCRA" target="VIKOR"/>
+<edge source="OCRA" target="OWA"/>
+<edge source="FTOPSIS" target="FAHP"/>
+<edge source="f-MIGP" target="FANP"/>
+<edge source="INPDW" target="SSD"/>
+<edge source="SSD" target="INPDW"/>
+</graph></graphml>
